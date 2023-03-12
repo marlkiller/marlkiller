@@ -19,7 +19,7 @@
 <p>
 
 [![](https://img.shields.io/badge/C++-1E90FF?style=flat-square&logo=C&logoColor=white)](#)
-[![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](#)
+[![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=openjdk&logoColor=white)](#)
 [![](https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=White)](#)
 [![](https://img.shields.io/badge/Vim-2E8B57?style=flat-square&logo=Vim&logoColor=White)](#)
 [![](https://img.shields.io/badge/IDE-Jetbrains-000000?style=flat-square&logo=jetbrains&logoColor=White)](#)
