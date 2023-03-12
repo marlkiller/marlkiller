@@ -18,7 +18,7 @@
 </a>
 <p>
 
-[![](https://img.shields.io/badge/Golang-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
+[![](https://img.shields.io/badge/C++-1E90FF?style=flat-square&logo=go&logoColor=white)](#)
 [![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](#)
 [![](https://img.shields.io/badge/Python-000000?style=flat-square&logo=Rust&logoColor=White)](#)
 [![](https://img.shields.io/badge/Vim-2E8B57?style=flat-square&logo=Vim&logoColor=White)](#)
