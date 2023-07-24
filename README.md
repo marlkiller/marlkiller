@@ -14,13 +14,12 @@
 
 🌏 Open-source software developer
 
-💗 Love code, love beauty
-
-💗 Love code, love beauty
-
-💗 Love code, love beauty
-
-💗 Love code, love beauty
+💗 
+💛
+🧡
+❤️‍🔥
+❤️‍🩹
+💝
 
 <!-- 🎈 Meet our team of [@Marlkiller](https://pornhub.com/) -->
 
