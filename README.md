@@ -51,7 +51,7 @@
 <br> 
 
 <div >
-<img height="137px"  src="https://github-readme-stats.vercel.app/api?username=marlkiller&&show_icons=true&include_all_commits=true&count_private=true&&theme=swift" />
-<img height="137px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlkiller&layout=compact&langs_count=6&theme=swift" />
+<img height="150px" width=""  src="https://github-readme-stats.vercel.app/api?username=marlkiller&&show_icons=true&include_all_commits=true&count_private=true&&theme=swift" />
+<img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlkiller&layout=compact&langs_count=6&theme=swift" />
 
 </div>
