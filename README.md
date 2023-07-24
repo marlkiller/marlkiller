@@ -2,9 +2,9 @@
 
 <div>
 
-<!-- 
-<a href="https://voidm.com/" target="_blank"><img align="right"  width="400px" src="./developer-github.gif"  /></a>
--->
+
+<a href="https://voidm.com/" target="_blank"><img align="right"  width="300px" src="./developer-github.gif"  /></a>
+
 
 <!-- 👨‍💻‍ Engineer -->
 
