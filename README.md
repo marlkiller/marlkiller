@@ -15,7 +15,7 @@
 
 🌏 Open-source software developer
 
-🎈 Homepage [@voidm.com](https://voidm.com/)
+💻 Homepage [@voidm.com](https://voidm.com/)
 
 💗 
 💛
