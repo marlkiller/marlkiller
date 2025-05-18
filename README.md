@@ -11,7 +11,7 @@
 
 🗒️ The development `engineer` of interest
 
-✈️ Want to travel the world
+✈️ I want everyone to know me, yet I don't know who I am.
 
 🌏 Open-source software developer
 
